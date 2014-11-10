@@ -1,5 +1,5 @@
 
-### Harjoitus 3:
+#### Liisa Hyvönen
 
 Mitkä ovat järjestelmän keskeiset käyttötapaukset? Mille käyttäjäryhmälle?
 - On mahdollista käyttää luokkatilan etsimiseen ja sinne navigoimiseen koulun sisällä. Esimerkiksi oppilaat voivat käyttää sitä.
