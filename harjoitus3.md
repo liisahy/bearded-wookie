@@ -17,3 +17,4 @@
 	-opettajalle lista paikalla olevista oppilaista koneelle (tai puhelimeen)
 	-sovelluksen ruudulla on kolmiuloitteinen pohjapiirros koulusta, jokaisesta kerroksesta myös oma pohjapiirros
 	-kartalla näkyy oma paikka koululla
+	_sårog
