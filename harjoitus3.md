@@ -8,8 +8,9 @@ Mitkä ovat järjestelmän keskeiset käyttötapaukset? Mille käyttäjäryhmäl
 
 Listaa jokaiseen käyttötapaukseen liittyen mitä ruudulla näkyy. Kuvaile em. käyttötapauksiin liittyen mitä käyttäjälle näytetään sovelluksen ruudulla, lisää ja tallenna
 - 2D kuva koulun kartasta, jossa näkyy monesko ovi esimerkiksi seuraava luokka on käytävällä. voi klikata ja tarkistaa ohitettavien tilojen nimet ja numerot
+- - 2D kartta koulusta, jossa on esimerkiksi punaisella merkitty täydet luokat, keltaisella esimerkiksi vajaat luokat ja täysin tyhjät tai vain muutaman ihmisen sisältävät luokat vihreällä
 - Kouluhenkilökunnalla on lista nimistä johon tulee "check" -merkki kun opettaja tarkistaa läsnäolijat ja henkilö on paikalla.
-- 2D kartta koulusta, jossa on esimerkiksi punaisella merkitty täydet luokat, keltaisella esimerkiksi vajaat luokat ja täysin tyhjät tai vain muutaman ihmisen sisältävät luokat vihreällä
+
 =======
   1.Kuinka sisätilapaikannusta voisi hyödyntää Metropolian Leppävaaran kampuksella?
 	-opiskelijat löytäisivät luokan 
