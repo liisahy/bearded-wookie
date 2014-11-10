@@ -10,5 +10,5 @@ Mitkä ovat järjestelmän keskeiset käyttötapaukset? Mille käyttäjäryhmälle?
 
 Listaa jokaiseen käyttötapaukseen liittyen mitä ruudulla näkyy. Kuvaile em. käyttötapauksiin liittyen mitä käyttäjälle näytetään sovelluksen ruudulla, lisää ja tallenna
 - ff
-- ff
-- ff
+- Käyttötapaus 2
+- Käyttötapaus 3
