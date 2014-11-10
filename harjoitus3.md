@@ -9,6 +9,6 @@ Mitkä ovat järjestelmän keskeiset käyttötapaukset? Mille käyttäjäryhmälle?
 - Opettajat voivat kätevästi tarkastamaan paikallaolijat
 
 Listaa jokaiseen käyttötapaukseen liittyen mitä ruudulla näkyy. Kuvaile em. käyttötapauksiin liittyen mitä käyttäjälle näytetään sovelluksen ruudulla, lisää ja tallenna
-- 
+- ff
 - 
 - 
