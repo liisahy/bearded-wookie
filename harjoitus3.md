@@ -12,6 +12,8 @@ Listaa jokaiseen käyttötapaukseen liittyen mitä ruudulla näkyy. Kuvaile em. 
 - Kouluhenkilökunnalla on lista nimistä johon tulee "check" -merkki kun opettaja tarkistaa läsnäolijat ja henkilö on paikalla.
 
 =======
+#### Elina Härkönen
+
   1. Kuinka sisätilapaikannusta voisi hyödyntää Metropolian Leppävaaran kampuksella?
 	- opiskelijat löytäisivät luokan 
 	- voisivat paikantaa opettajan
@@ -23,8 +25,7 @@ Listaa jokaiseen käyttötapaukseen liittyen mitä ruudulla näkyy. Kuvaile em. 
 	- helpottaa oppilaiden kulkemista koululla 
 	- oppilaille ja opettajille
   
-  3. Listaa jokaiseen käyttötapaukseen liittyen mitä ruudulla näkyy. 
-  Kuvaile em. käyttötapauksiin liittyen mitä käyttäjälle näytetään sovelluksen ruudulla, lisää ja tallenna
+  3. Listaa jokaiseen käyttötapaukseen liittyen mitä ruudulla näkyy. Kuvaile em. käyttötapauksiin liittyen mitä käyttäjälle näytetään sovelluksen ruudulla, lisää ja tallenna.
 	- ruudulla on kartta koulusta jossa punaisella on merkitty kohta jonne oppilas haluaa, muuttuu vihreäksi
 	 kun oppilas saapuu onnistuneesti paikalle
 	- opettajalle lista paikalla olevista oppilaista koneelle (tai puhelimeen)
